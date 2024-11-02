@@ -5,7 +5,7 @@
 - **Description:**
     - Stratified K-Fold cross-validation ensures that each fold of the dataset maintains the same proportion of class labels as the entire dataset. This is especially useful for imbalanced datasets, as it helps in producing more reliable and consistent model evaluations by ensuring that each class is adequately represented in every fold. 
 
-### StratifiedKFold python file
+1. **StratifiedKFold python file**
 - **Description:**
     - Define a class StratifiedKFoldEvaluator which contains:
         - `evaluate()` function,
